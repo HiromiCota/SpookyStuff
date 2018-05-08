@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{B8E78379-6FDB-5306-70D2-D4A4EB7FEE16}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SpookyStuff.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Flicker.cs">
     <Files>
-      <File FileName="Assets/SpookyStuff.cs" Line="6" Column="5" />
+      <File FileName="Assets/SpookyStuff.cs" Line="40" Column="5" />
+      <File FileName="Assets/Flicker.cs" Line="9" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

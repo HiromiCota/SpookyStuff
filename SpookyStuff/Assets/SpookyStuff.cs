@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpookyStuff : MonoBehaviour {
     public enum Effects {none, jostle, eject}
-    [SerializeField] Effects selected;
+    [SerializeField] Effects selected = Effects.jostle;
     [SerializeField] float duration = 1f;
     [SerializeField] float power = 1f;
     [SerializeField] float intensity =0.3f;
